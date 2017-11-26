@@ -27,7 +27,7 @@ namespace SecretSanta
 
             var fromAddress = new MailAddress("slaptosdovanos@gmail.com", "Kalėdų Senelis");
             var toAddress = new MailAddress(email);
-            const string fromPassword = "slaptosdo";
+            const string fromPassword = "slaptazodis";
             const string subject = "Kalėdos";
             string body = "Tu esi slaptas Kalėdų Senelis žmogaus, kurio vardas yra " + asignee.name ;
 
